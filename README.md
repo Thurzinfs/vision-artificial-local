@@ -1,6 +1,6 @@
 # Visão Artificial — API Local de Processamento de IA
 
-> Este repositório faz parte do ecossistema **Visão Artificial**. Ele atua como o **motor de inteligência artificial** localizado na borda (edge). Para ver as outras pontas, consulte os repositórios da [API Central (Nuvem)](https://github.com/seu-usuario/cloud-visao-artificial) e do [Aplicativo Mobile (Flutter)](https://github.com/seu-usuario/vision-artificial-mobile).
+> Este repositório faz parte do ecossistema **Visão Artificial**. Ele atua como o **motor de inteligência artificial** localizado na borda (edge). Para ver as outras pontas, consulte os repositórios da [API Central (Nuvem)](https://github.com/Thurzinfs/vision-artificial-cloud) e do [Aplicativo Mobile (Flutter)](https://github.com/Thurzinfs/vision-artificial-mobile).
 
 ---
 
